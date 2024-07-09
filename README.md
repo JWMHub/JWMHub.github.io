@@ -1,2 +1,2 @@
-# academic-profile
+# Academic Profile
 My academic profile
